@@ -2,7 +2,7 @@
 
 A responsive and feature-rich financial dashboard application built with React, TypeScript, and Tailwind CSS. This project showcases a modern UI with interactive charts, dynamic data filtering, comprehensive report generation (PDF/PNG), and custom data visualization via CSV uploads.
 
-![Financial Dashboard Screenshot](https://storage.googleapis.com/aistudio-project-files/5a44358a-a43c-4734-9189-9b93282b86e0/5a44358a-a43c-4734-9189-9b93282b86e0)
+![Financial Dashboard Screenshot](https://github.com/Suraj2rp/financial-dashboard/blob/main/test/screenshot.png)
 
 ## ✨ Features
 
