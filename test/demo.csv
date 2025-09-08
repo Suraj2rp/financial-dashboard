@@ -1,0 +1,17 @@
+
+type,col1,col2,col3,col4
+client,Online CSV,5000,
+client,New CSV,750,
+client,Active CSV,150,
+client,Inactive CSV,25,
+sip,Jan,2.5,130,
+sip,Feb,2.8,145,
+sip,Mar,3.1,160,
+mis,Jan,0.55,0.35,0.45
+mis,Feb,0.65,0.40,0.50
+mis,Mar,0.70,0.42,0.55
+stat,Purchases,75,15.00 Cr
+stat,Redemptions,25,8.20 Cr
+stat,Rej. Transactions,5,1.00 Cr
+stat,SIP Rejections,3,0.25 Cr
+stat,New SIP,90,9.50 Cr
